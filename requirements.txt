@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 requests>=2.28
+=======
+requests>=2.28
+>>>>>>> 3fb275df1802f21cf7b51da69a32e14571088004
 tqdm
